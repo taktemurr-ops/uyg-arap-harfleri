@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 4c60cae1c80dbec1f4bcd2a559ebf2dbddb8dd01
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: main
+      ref: 3a2dd95f1957d3cd1133bafff0eaa5a0d352fd97
 
 dev_dependencies:
   flutter_test:
